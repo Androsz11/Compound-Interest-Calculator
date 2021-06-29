@@ -2,6 +2,7 @@
 
 
 It is used to calculate compound interest in terminal.
+It is simple but very useful program.
 
 To install it type:-
 
